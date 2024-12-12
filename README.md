@@ -1,3 +1,4 @@
+MY APP LINK: https://rehan-s8882-fashion-mate--personal-styli-fashionmatemain-hat3n1.streamlit.app/
 FashionMate - Your Personal Stylist 👗👔
 FashionMate is an intelligent and user-friendly styling app designed to help users effortlessly find the perfect outfit combinations. Whether you're planning for a traditional occasion, casual wear, or a trendy outing, FashionMate offers personalized suggestions for every style and preference.
 
